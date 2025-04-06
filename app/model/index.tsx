@@ -19,7 +19,7 @@ export default function ModelDetail() {
   );
 }
 
-const styles = StyleSheet.create({
+const styles = RNStyleSheet.create({
   container: {
     paddingBottom: 50,
   },
